@@ -94,16 +94,6 @@ The results demonstrate that ensemble models, particularly LightGBM, are effecti
 
 ---
 
-##  Key Takeaways
-
-* Credit default prediction is a realistic and high-impact machine learning problem
-* ROC–AUC is a more reliable metric than accuracy for imbalanced financial data
-* Ensemble methods outperform traditional baseline models
-* LightGBM provides the best balance between performance and practical usability
-* Proper preprocessing and evaluation are critical for trustworthy credit risk models
-
----
-
 ## Skills Demonstrated
 
 * Data preprocessing and feature engineering
